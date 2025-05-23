@@ -1,3 +1,5 @@
+package com.example.tsp;
+
 /**
  * This class represents a cartesian 2D point using its x and y coordinates
  */
